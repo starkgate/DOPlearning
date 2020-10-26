@@ -6,6 +6,10 @@ Code for the papers:
 
 *G. Wang, C. Zhang, H. Wang, J. Wang, Y. Wang, and X. Wang,*  [**Unsupervised Learning of Depth, Optical Flow and Pose with Occlusion from 3D Geometry**](https://ieeexplore.ieee.org/document/9152137), in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2020.3010418.
 
+## What is this fork?
+
+Added code to load a custom dataset and test it, without any groundtruth depth maps.
+
 ## Prerequisites
 
 Python3 and pytorch are required. Besides, other libraries need to be installed by runing:
